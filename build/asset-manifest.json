@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skyneb-app/static/css/main.6141ec18.chunk.css",
+    "main.js": "/skyneb-app/static/js/main.73d52d60.chunk.js",
+    "main.js.map": "/skyneb-app/static/js/main.73d52d60.chunk.js.map",
+    "runtime-main.js": "/skyneb-app/static/js/runtime-main.89f9854d.js",
+    "runtime-main.js.map": "/skyneb-app/static/js/runtime-main.89f9854d.js.map",
+    "static/js/2.16a3edf2.chunk.js": "/skyneb-app/static/js/2.16a3edf2.chunk.js",
+    "static/js/2.16a3edf2.chunk.js.map": "/skyneb-app/static/js/2.16a3edf2.chunk.js.map",
+    "static/js/3.644f5200.chunk.js": "/skyneb-app/static/js/3.644f5200.chunk.js",
+    "static/js/3.644f5200.chunk.js.map": "/skyneb-app/static/js/3.644f5200.chunk.js.map",
+    "index.html": "/skyneb-app/index.html",
+    "static/css/main.6141ec18.chunk.css.map": "/skyneb-app/static/css/main.6141ec18.chunk.css.map",
+    "static/js/2.16a3edf2.chunk.js.LICENSE.txt": "/skyneb-app/static/js/2.16a3edf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89f9854d.js",
+    "static/js/2.16a3edf2.chunk.js",
+    "static/css/main.6141ec18.chunk.css",
+    "static/js/main.73d52d60.chunk.js"
+  ]
+}
